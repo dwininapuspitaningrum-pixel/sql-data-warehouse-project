@@ -39,4 +39,4 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## About Me
 
-Hi! I'm Dwi Nina Puspitaningrum. I'm a fresh graduate from Actuarial Science who develop skills on data engineering and analytics. I make this portfolio based on Youtube channel **Data With Baraa**. 
+Hi! I'm Dwi Nina Puspitaningrum. I'm a fresh graduate from Actuarial Science who develop skills on data engineering and analytics. I make this portfolio based on Youtube channel **Data With Baraa** https://www.youtube.com/watch?v=SSKVgrwhzus&t=87335s. 
