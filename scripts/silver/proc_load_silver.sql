@@ -230,3 +230,6 @@ BEGIN
 		PRINT '=========================================';
 	END CATCH
 END;
+GO
+
+EXEC silver.load_silver;
