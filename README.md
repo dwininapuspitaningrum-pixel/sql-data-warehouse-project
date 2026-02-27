@@ -42,7 +42,7 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 
 ### Repository Structure
 
-
+<img width="1400" height="606" alt="image" src="https://github.com/user-attachments/assets/d4fabaf5-6740-4a97-84ea-e86701dbae58" />
 
 ---
 
