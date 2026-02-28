@@ -20,7 +20,7 @@ The Gold Layer is the business-level data representation, structured to support 
     | birthdate | DATE | The date of birth of the customer, formatted as YYY-MM-DD (e.g., 1971-10-06) |
     | create_date | DATE | The date and time when the customer record was created in the system |
 
-    1. gold.dim_products
+2. gold.dim_products
     - Purpose: Provides information about the products and their attributes.
     - Column:
     
